@@ -7,9 +7,13 @@ Synopsis of Major Project
 [Synopsis_ Major Project.pdf](https://github.com/user-attachments/files/20508503/Synopsis_.Major.Project.pdf)
 
 Presentation Of Major Project
+
 [FinalMajorProjectPpt.pptx](https://github.com/user-attachments/files/20508637/FinalMajorProjectPpt.pptx)
 
 Images of DocEase
+
+
+
 <img width="803" alt="home page screenshot" src="https://github.com/user-attachments/assets/95cc0807-54de-4864-a8b6-baaac4e10c66" />
  
 
